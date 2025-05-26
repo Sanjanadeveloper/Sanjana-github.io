@@ -33,7 +33,13 @@ export const Home = () => {
             <p>Hi, I am</p>
             <p>Sanjana kumari.</p>
             <p>I'm a <span>&nbsp;Software Developer.</span></p>
-            <p>As a first year BCA student and Full Stack Developer, I specialize in developing scalable web applications. Proficient in JavaScript & ReactJs, I seamlessly integrate backend functionalities with responsive frontend components, demonstrating a strong grasp of software development principles. A collaborative team player with excellent problem-solving skills, I'm eager to contribute academic insights and practical skills to innovative projects. My keen interest in data structures and algorithms enhances my overall proficiency in Full Stack Development.</p>
+             <p>
+                  First-year BCA student and passionate Full Stack Developer skilled in
+                  JavaScript, React.js, and backend integration. I build responsive,
+                  scalable web apps with clean code and strong problem-solving skills.
+                  Enthusiastic about DSA and eager to contribute to impactful,
+                  team-driven projects.
+            </p>
             <div className='homeCont'>
                 <a href='https://drive.google.com/file/d/1w5F5srrHLXMu2JTK1yMBjsGMdVMukkXF/view?usp=sharing' style={{ textDecoration: "none" }} download='Sanjana_kumari_Resume'>
                     <button>Resume <i>

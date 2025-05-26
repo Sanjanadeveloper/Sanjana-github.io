@@ -94,7 +94,7 @@ export const Navbar = () => {
                 <p><a data-goto='skill' onClick={goToSection}>SKILLS</a></p>
                 <p><a data-goto='projects' onClick={goToSection}>PROJECTS</a></p>
                 <p><a data-goto='contact' onClick={goToSection}>CONTACT</a></p>
-                <p><a href='https://drive.usercontent.google.com/download?id=1NXy8L6nKJXybes4WASSvpkjpwRUmz1DM&export=download&authuser=0&confirm=t&uuid=d8823cf9-5cdb-455b-b77b-047ea8bdfa51&at=APZUnTVYR2eWoR68z5RSBBHupcYe:1705078621426' target='_blank'>RESUME <MdOpenInNew fontSize={17} style={{padding:"0px",margin:"0px"}}/></a></p>
+                <p><a href='https://drive.google.com/file/d/1w5F5srrHLXMu2JTK1yMBjsGMdVMukkXF/view?usp=sharing' target='_blank'>RESUME <MdOpenInNew fontSize={17} style={{padding:"0px",margin:"0px"}}/></a></p>
             </div>
         </div>
     </div>

@@ -67,7 +67,7 @@ export const Education = () => {
                     <p>Class 12 (Intermediate)</p>
                     <p>C.P. Chaudhary Inter College, Jharkhand</p>
                     <p>Science Stream</p>
-                    <p>2024</p>
+                    <p>2024 | Scored 81%</p>
                 </div>
                 <div className='date d2'></div>
             </div>
